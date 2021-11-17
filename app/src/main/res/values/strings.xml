@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Graduation App</string>
+    <string name="main">main</string>
+    <string name="catalog">catalog</string>
+    <string name="cart">cart</string>
+
+</resources>
